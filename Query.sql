@@ -1,0 +1,13 @@
+USE MASTER;
+DROP DATABASE biblioteca
+CREATE DATABASE biblioteca
+GO
+
+USE biblioteca
+CREATE TABLE livros(
+	pk_idLivro INT PRIMARY KEY IDENTITY(1,1),
+	nome NVARCHAR(50),
+	autor NVARCHAR(50)
+)
+SELECT * FROM livros
+USE MASTER;
