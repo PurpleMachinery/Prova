@@ -1,0 +1,13 @@
+C:\Users\wesley\Desktop\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\wesley\Desktop\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.Menu.resources
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.Properties.Resources.resources
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.exe
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.pdb
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.Insert.resources
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.Update.resources
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.Delete.resources
+C:\Users\wesley\Desktop\Prova\Prova\obj\x86\Debug\Prova.SelectTudo.resources
